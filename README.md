@@ -1,4 +1,4 @@
-# WTAss1
+# Web-Technology Assignment
 
 ## Simple website for my school : V. J. Highschool, Nandgaon (Nasik).
 ## ****P R E V I E W****
